@@ -1,0 +1,42 @@
+body{ 
+    background-color: darkgreen;
+}
+
+#titulo{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #8b0000 ;
+    font-size: 60px;
+}
+
+
+#erro{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: red; 
+    font-size: 25px;
+}
+
+.tabelas{
+    display: flex;
+
+}
+
+.margem{
+    margin-right: 100px;
+    background-color: #8b0000  ;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #8b000052 (228, 9, 9);
+    width: 300px;
+    height: 200px;
+}
+
+.operadores{
+    display: flex;
+    margin-right: 100px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #8b0000 ; 
+    margin-top: 70px; 
+}
